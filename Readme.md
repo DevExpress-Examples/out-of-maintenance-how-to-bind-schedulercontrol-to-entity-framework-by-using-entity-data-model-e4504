@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/BindSchedulerToEF/Form1.cs) (VB: [Form1.vb](./VB/BindSchedulerToEF/Form1.vb))
+* [Program.cs](./CS/BindSchedulerToEF/Program.cs) (VB: [Program.vb](./VB/BindSchedulerToEF/Program.vb))
+<!-- default file list end -->
 # How to bind SchedulerControl to Entity Framework by using Entity Data Model
 
 
